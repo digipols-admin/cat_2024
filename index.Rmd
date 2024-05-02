@@ -1,7 +1,6 @@
 ---
-title: "My Website"
+title: "Catalunya elections 2024"
 ---
 
-Hello, Website!
+This website contains information related to the Catalunya regional elections 2024. 
 
-Add content here!!!!

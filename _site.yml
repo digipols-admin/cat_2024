@@ -1,6 +1,6 @@
-name: "my-website"
+name: "cat_2024"
 navbar:
-  title: "My Website"
+  title: "Catalunya 2024"
   left:
     - text: "Home"
       href: index.html
